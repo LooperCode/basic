@@ -12,6 +12,8 @@
 
 * link's
 
+Что бы ненумированный - (*)
+
 * Work with table
 
 * quote
