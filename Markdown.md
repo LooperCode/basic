@@ -8,6 +8,8 @@
 
 * work with graphics
 
+Вставка изображения: ![hi!2038](watchface.png)
+
 * link's
 
 * Work with table
